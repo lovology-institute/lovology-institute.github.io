@@ -87,6 +87,7 @@ body {
 }
 /* 4 MENU UTAMA END */
 
+/* 4 MENU UTAMA START*/
 .cntnr1a2 a img {
 	-webkit-transform: scale (1);
 	transform: scale (1);
@@ -112,9 +113,7 @@ body {
     -webkit-transform: scale (0.99);
 	transform: scale (0.99);
 }
-
-
-
+/* 4 MENU UTAMA END*/
 
 .cntnr2 {
     margin: 40px auto;
